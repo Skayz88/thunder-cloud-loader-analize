@@ -21,7 +21,7 @@ public class RestTemplateConfig {
     private Integer connectTimeout;
     private Integer readTimeout;
     private String baseUrl;
-    private String productsUrl;
-    private String spendUrl;
+    private String stockUrl;
+    private String soldUrl;
 
 }
